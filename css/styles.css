@@ -1,9 +1,21 @@
-.cis260speacial { 
-    color: #b423a9;
-    
-    
-    }
+
 #cis-speacial-parent a{
     
     color: blue;
+
+}
+.mercedesheader{
+    
+    
+    text-align: center;
+    
+}
+.referencepages{
+    
+    text-align: right;
+    
+   
+}
+body {
+    background-color: pink;
 }
