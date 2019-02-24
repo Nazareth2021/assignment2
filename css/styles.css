@@ -1,9 +1,5 @@
 
-#cis-speacial-parent a{
-    
-    color: blue;
 
-}
 .mercedesheader{
     
     
@@ -13,15 +9,36 @@
 .referencepages{
     
     text-align: right;
-    
-   
+      
 }
 body {
     background-color: pink;
 }
 
-#content p {
     
-    color:blue
+
+#new {
+  
+    background-color: aliceblue;
+    color: black
+}
+#twoinone a{
+    
+    color: deeppink
+}
+#bullets ul{
+    color: darkgrey
+}
+#this {
+    
+    height: 10em;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    background-color:antiquewhite;
+        
     
 }
+
+
