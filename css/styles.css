@@ -32,13 +32,19 @@ body {
 #this {
     
     height: 10em;
-    display: flex;
+    display:grid;
     align-items: center;
     text-align: center;
-    justify-content: center;
-    background-color:antiquewhite;
-        
+    justify-content:center;
+    background-color:black;
+    color: white
     
+        
 }
+#menu{
+    text-align: center;
+    }
+
+
 
 
